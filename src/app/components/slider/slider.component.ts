@@ -6,11 +6,6 @@ import { Component, OnInit } from '@angular/core'
 })
 
 export class SliderComponent implements OnInit {
-    
-    constructor() {
-
-    }
-    ngOnInit() {
-        console.log('Holaaa')
-    }
+    constructor() {}
+    ngOnInit() {}
 }
